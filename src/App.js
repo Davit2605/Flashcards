@@ -5,7 +5,7 @@ const questions = [
   {
     id: 3457,
     question: "What language is React based on?",
-    answer: "JavaScrit",
+    answer: "JavaScript",
   },
   {
     id: 7336,
